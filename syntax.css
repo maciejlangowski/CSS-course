@@ -16,12 +16,15 @@ h2{
 }
 
 
-span{
-        display : block;
-        color: blue;
-}
-
 .deck{   /*class*/
     color: green;
     display : block;
+}
+
+span{
+    color: blue;
+}
+
+span{
+    color: red;
 }
