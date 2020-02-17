@@ -20,11 +20,28 @@ h2{
     color: green;
     display : block;
 }
-
+/*film 10*/
 span{
     color: blue;
 }
 
 span{
     color: red;
+}
+
+/*film 11*/
+body{
+    color: red;
+}
+
+div{
+    color: blue;
+}
+
+p {
+    color: green;
+}
+
+a{
+        color: red;
 }
