@@ -1,4 +1,21 @@
+/******************************************************
+*
+* Author ::
+* Date
+***********************************/
+
+/* Style all P tags */
 p {
     font-size: 18px;
     color: cyan;
+}
+
+/* Style all p tags in #header  */
+#header p {
+    font size: 24 px;
+}
+
+/* Style all header tags */
+h1{
+    font-size: 50px;
 }
