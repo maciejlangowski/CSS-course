@@ -1,63 +1,7 @@
-/******************************************************
-*
-* Author ::
-* Date
-***********************************/
-
-/* Targeting elements */
-/*
-h2{
-    font-size: 24px
+p{
+    color:red !important;
 }
-
-#wyjasnienie {  /*ID*/ /*
-    font-size: 18 px;
-    color: red;
-}
-
-/*
-.deck{   /*class*/ /*
-    color: green;
-    display : block;
-}
-/*film 10*/ /*
-span{  
-    color: blue;
-}
-
-span{
-    color: red;
-}
-
-/*film 11*/ /*
-body{
-    color: red;
-}
-
-div{
-    color: blue;
-}
-
-p {
-    color: green;
-}
-
-a{
-        color: red;
-}
-*/
- 
-
 
 #header p{
-    color : red;
-
+    color:green;
 }
-
-p{
-    color:rosybrown;
-}
-
-.test {color:green;}
-
-strong {color:green;}
