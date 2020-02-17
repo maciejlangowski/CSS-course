@@ -1,7 +1,6 @@
-p{
-    color:red !important;
-}
-
-#header p{
-    color:green;
+p, spans, a, ul, h1, h2, h3, h4, li{
+    color:red;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Arial;
 }
