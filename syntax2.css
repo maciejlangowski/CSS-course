@@ -79,7 +79,7 @@ div.featured{
 }
 */
 
-
+/*
 *{
     margin: 0;
     padding: 0;
@@ -88,4 +88,21 @@ div.featured{
 
 p {
     color:red;
+}
+*/
+
+h1{
+    font-size: 48px;
+}
+
+div{
+    font-size: 16px ;
+}
+
+div h1{
+    font-size: 5em;
+}
+
+div p{
+    font-size: 40%;
 }
