@@ -26,9 +26,27 @@ article p:last-child{
 }
 */
 
+/*
 article p:first-of-type{
     font-weight: bold;
 }
 
 article p:last-of-type{
     color: red;
+    */
+
+li:nth-child(1), li:nth-child(5){
+    font-weight: bold;
+}
+
+li:nth-child(even){
+    background:gray;
+}
+
+li:nth-child(odd){
+    background:pink;
+}
+
+li:nth-child(2n + 1){
+    color: red;
+}
