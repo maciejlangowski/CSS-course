@@ -16,7 +16,7 @@ a:visited
     {color:purple;
     }
 */
-
+/*
 article p:first-child{
     font-weight: bold;
 }
@@ -24,3 +24,11 @@ article p:first-child{
 article p:last-child{
     color: red;
 }
+*/
+
+article p:first-of-type{
+    font-weight: bold;
+}
+
+article p:last-of-type{
+    color: red;
