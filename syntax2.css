@@ -164,7 +164,7 @@ body > div{
     background:url(https://www.wprost.pl/_thumb/76/a5/701564e617ac922b9d9c19c3bf4d.jpeg);
 }
 */
-
+/*
 a{
     color:crimson;
     text-decoration: none;
@@ -176,3 +176,12 @@ a:hover{
     text-decoration: underline;
     background-color: aquamarine;
 }
+*/
+
+p{
+    font-size: 12px;
+    letter-spacing: 2em;
+    word-spacing: 250%;
+    line-height: 12px;
+}
+
