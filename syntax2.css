@@ -69,11 +69,23 @@ article:nth-of-type(2n + 1){
     font-weight: bold;
 }
 */
-
+/*
 article.featured{
     background-color: red;
 }
 
 div.featured{
     background-color: yellow;
+}
+*/
+
+
+*{
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+p {
+    color:red;
 }
