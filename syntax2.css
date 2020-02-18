@@ -52,6 +52,7 @@ li:nth-child(2n + 1){
 }
 */
 
+/*
 article:nth-of-type(3){
     color:green;
 }
@@ -66,4 +67,13 @@ article:nth-of-type(even){
 
 article:nth-of-type(2n + 1){
     font-weight: bold;
+}
+*/
+
+article.featured{
+    background-color: red;
+}
+
+div.featured{
+    background-color: yellow;
 }
