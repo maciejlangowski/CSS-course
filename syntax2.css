@@ -128,7 +128,7 @@ div p {
     text-decoration: line-through;
 }
 */
-
+/*
 h1{
     font-weight: normal;
 }
@@ -136,4 +136,16 @@ h1{
 p{
     font-weight: bold;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+*/
+
+#header p{
+    text-transform: capitalize;
+}
+
+body{
+    text-transform: uppercase;
+}
+body > div{
+    text-transform: none ;
 }
