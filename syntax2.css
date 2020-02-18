@@ -109,8 +109,21 @@ div p{
 }
 */
 
-
+/*
 div h1, div p{
     font-family: arial, Arial, Helvetica, sans-serif;
 }
 
+*/
+
+div {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: inherit;
+}
+
+div p {
+    text-decoration: line-through;
+}
