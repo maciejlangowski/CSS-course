@@ -1,3 +1,19 @@
-#all-articles h2 + p{
-    color :green;
+span[class~=deck]{
+    color : purple;
+}
+
+div[id]{
+    color:red;
+}
+
+a[title="dupa1"]{
+    color:cyan;
+}
+
+a[href$="pdf"]{
+    color:blueviolet;
+}
+
+a[href^="http"]{
+    color:tomato;
 }
