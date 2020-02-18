@@ -91,6 +91,7 @@ p {
 }
 */
 
+/*
 h1{
     font-size: 48px;
 }
@@ -106,3 +107,10 @@ div h1{
 div p{
     font-size: 40%;
 }
+*/
+
+
+div h1, div p{
+    font-family: arial, Arial, Helvetica, sans-serif;
+}
+
