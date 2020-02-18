@@ -138,7 +138,7 @@ p{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 */
-
+/*
 #header p{
     text-transform: capitalize;
 }
@@ -148,4 +148,17 @@ body{
 }
 body > div{
     text-transform: none ;
+}
+*/
+
+#header h1{
+    color: pink;
+}
+
+#header p{
+    color: #758493;
+}
+
+#header {
+    background:url(https://www.wprost.pl/_thumb/76/a5/701564e617ac922b9d9c19c3bf4d.jpeg);
 }
