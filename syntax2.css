@@ -1,0 +1,9 @@
+a:hover{  /* a - dotyczy wszystkich a ; ":" - oznacza Pseudo class;
+             hover - pseudoclass keyword */
+  color : red    ;
+
+}
+
+#header:hover{
+    background-color: green;
+}
