@@ -7,3 +7,11 @@ a:hover{  /* a - dotyczy wszystkich a ; ":" - oznacza Pseudo class;
 #header:hover{
     background-color: green;
 }
+
+a:active{
+    color:orange;
+}
+
+a:visited
+    {color:purple;
+    }
