@@ -1,6 +1,7 @@
+/*
 a:hover{  /* a - dotyczy wszystkich a ; ":" - oznacza Pseudo class;
              hover - pseudoclass keyword */
-  color : red    ;
+  /*color : red    ;
 
 }
 /*
@@ -150,7 +151,7 @@ body > div{
     text-transform: none ;
 }
 */
-
+/*
 #header h1{
     color: pink;
 }
@@ -161,4 +162,17 @@ body > div{
 
 #header {
     background:url(https://www.wprost.pl/_thumb/76/a5/701564e617ac922b9d9c19c3bf4d.jpeg);
+}
+*/
+
+a{
+    color:crimson;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    color:darkmagenta;
+    text-decoration: underline;
+    background-color: aquamarine;
 }
