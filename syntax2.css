@@ -310,14 +310,17 @@ a {
 .static-width{
     width: 300px;
     height: 100px;
+    border-radius: 15px;
 }
 
 .percentage-width{
     width: 70%;
     height: 50px;
+    border-radius: 5px 100px ;
 }
 
 .inline-block{
-    width: 40%;
-    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
 }
