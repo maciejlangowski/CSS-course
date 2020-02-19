@@ -245,7 +245,7 @@ p{
     border: 10px solid green;
     
 }
-
+/*
 .dashed{
     border: 10px dashed blue;
 
@@ -274,4 +274,28 @@ p{
 }
 .solid{
     border: 10px solid blue;
+}
+*/
+
+.block {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #000;
+ 
+}
+.inline {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #000;
+    display: inline-block;
+}
+
+a {
+    padding: 10px;
+    margin: 10px;
+    background-color: yellow;
+    border: 10px solid green;
+    text-decoration: none;
+    display: inline-block;
+   
 }
